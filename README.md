@@ -1,5 +1,7 @@
 # SentinelAI – ML Network Intrusion Detection Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://sentinel--ai.streamlit.app/)
+
 SentinelAI is a Streamlit SOC-style dashboard around a trained scikit-learn
 Decision Tree. It classifies **uploaded network-flow CSV files** as `BENIGN`
 or `ATTACK`.
