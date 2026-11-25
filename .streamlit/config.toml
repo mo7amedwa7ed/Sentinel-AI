@@ -1,0 +1,17 @@
+[theme]
+base = "dark"
+primaryColor = "#22D3EE"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#111A2E"
+textColor = "#E6EDF7"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200          # MB; keep in sync with app/config.py MAX_UPLOAD_MB
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

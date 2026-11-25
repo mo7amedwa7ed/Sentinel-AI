@@ -1,0 +1,2 @@
+Model,Features,Max Depth,Min Samples Split,Min Samples Leaf,Accuracy,Precision,Recall,F1,False Positive Rate,False Negative Rate,Training Time
+Decision Tree,65,25,5,1,0.9989767334339602,0.9959022041731365,0.9985628610120775,0.9972307579075202,0.0010111253308298755,0.001868670517604694,35.64314532279968
